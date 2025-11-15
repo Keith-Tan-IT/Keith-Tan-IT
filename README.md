@@ -32,6 +32,6 @@
 
 ---
 
-⚡ *Fun fact:* I started my career as a **Project Manager** and am now embracing the exciting challenge of becoming a **Software Engineer in AI/ML**.  
+⚡ *Fun fact:* I started my career as a **Mechanical Engineer** and am now embracing the exciting challenge of becoming a **Software Engineer in AI/ML**.  
 
 ---
